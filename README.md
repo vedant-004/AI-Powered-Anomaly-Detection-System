@@ -28,7 +28,7 @@ Income: Income of the account holder.
 
 Account_Type: Type of the account (e.g., savings, checking).
 
-Usage
+        Usage
 The project provides several functionalities:
 
 Data Visualization:
